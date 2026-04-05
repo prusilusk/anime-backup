@@ -4,12 +4,12 @@
         <user_id></user_id>
         <user_name>prusilusk</user_name>
         <user_export_type>1</user_export_type>
-        <user_total_anime>350</user_total_anime>
-        <user_total_watching>4</user_total_watching>
-        <user_total_completed>168</user_total_completed>
+        <user_total_anime>356</user_total_anime>
+        <user_total_watching>2</user_total_watching>
+        <user_total_completed>170</user_total_completed>
         <user_total_onhold>20</user_total_onhold>
         <user_total_dropped>21</user_total_dropped>
-        <user_total_plantowatch>137</user_total_plantowatch>
+        <user_total_plantowatch>143</user_total_plantowatch>
     </myinfo>
 
 
@@ -19,7 +19,7 @@
         <series_type>TV</series_type>
         <series_episodes>13</series_episodes>
         <my_id>0</my_id>
-        <my_watched_episodes>5</my_watched_episodes>
+        <my_watched_episodes>8</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
@@ -43,50 +43,6 @@
         <my_id>0</my_id>
         <my_watched_episodes>10</my_watched_episodes>
         <my_start_date>2026-02-01</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>59978</series_animedb_id>
-        <series_title><![CDATA[Sousou no Frieren 2nd Season]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>10</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>9</my_watched_episodes>
-        <my_start_date>2026-02-01</my_start_date>
-        <my_finish_date>0000-00-00</my_finish_date>
-        <my_rated></my_rated>
-        <my_score>0</my_score>
-        <my_dvd></my_dvd>
-        <my_storage></my_storage>
-        <my_status>Watching</my_status>
-        <my_comments><![CDATA[]]></my_comments>
-        <my_times_watched>0</my_times_watched>
-        <my_rewatch_value>Low</my_rewatch_value>
-        <my_tags><![CDATA[]]></my_tags>
-        <my_rewatching>0</my_rewatching>
-        <my_rewatching_ep>0</my_rewatching_ep>
-        <update_on_import>1</update_on_import>
-    </anime>
-    <anime>
-        <series_animedb_id>60058</series_animedb_id>
-        <series_title><![CDATA[[Oshi no Ko] 3rd Season]]></series_title>
-        <series_type>TV</series_type>
-        <series_episodes>11</series_episodes>
-        <my_id>0</my_id>
-        <my_watched_episodes>10</my_watched_episodes>
-        <my_start_date>0000-00-00</my_start_date>
         <my_finish_date>0000-00-00</my_finish_date>
         <my_rated></my_rated>
         <my_score>0</my_score>
@@ -727,7 +683,7 @@
         <my_start_date>2025-08-18</my_start_date>
         <my_finish_date>2025-09-30</my_finish_date>
         <my_rated></my_rated>
-        <my_score>9</my_score>
+        <my_score>8</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -3050,6 +3006,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>59978</series_animedb_id>
+        <series_title><![CDATA[Sousou no Frieren 2nd Season]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>10</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>10</my_watched_episodes>
+        <my_start_date>2026-02-01</my_start_date>
+        <my_finish_date>2026-03-31</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>50265</series_animedb_id>
         <series_title><![CDATA[Spy x Family]]></series_title>
         <series_type>TV</series_type>
@@ -3786,6 +3764,28 @@
         <my_finish_date>2026-03-02</my_finish_date>
         <my_rated></my_rated>
         <my_score>8</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Completed</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>60058</series_animedb_id>
+        <series_title><![CDATA[[Oshi no Ko] 3rd Season]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>11</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>11</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>2026-03-31</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>9</my_score>
         <my_dvd></my_dvd>
         <my_storage></my_storage>
         <my_status>Completed</my_status>
@@ -5250,6 +5250,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>61990</series_animedb_id>
+        <series_title><![CDATA[Cyberpunk: Edgerunners 2]]></series_title>
+        <series_type>ONA</series_type>
+        <series_episodes>10</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>62516</series_animedb_id>
         <series_title><![CDATA[Dandadan 3rd Season]]></series_title>
         <series_type>TV</series_type>
@@ -5540,6 +5562,28 @@
         <series_title><![CDATA[Girls Band Cry Movie 2]]></series_title>
         <series_type>Movie</series_type>
         <series_episodes>1</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>63850</series_animedb_id>
+        <series_title><![CDATA[Golden Kamuy: Bousou Ressha-hen]]></series_title>
+        <series_type>Unknown</series_type>
+        <series_episodes>0</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
@@ -6507,7 +6551,7 @@
         <series_animedb_id>62913</series_animedb_id>
         <series_title><![CDATA[Needy Girl Overdose]]></series_title>
         <series_type>TV</series_type>
-        <series_episodes>0</series_episodes>
+        <series_episodes>13</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
@@ -6922,6 +6966,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>63188</series_animedb_id>
+        <series_title><![CDATA[Ruri Dragon]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>12531</series_animedb_id>
         <series_title><![CDATA[Sakamichi no Apollon]]></series_title>
         <series_type>TV</series_type>
@@ -7164,6 +7230,28 @@
         <update_on_import>1</update_on_import>
     </anime>
     <anime>
+        <series_animedb_id>50416</series_animedb_id>
+        <series_title><![CDATA[Skip to Loafer]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
         <series_animedb_id>6802</series_animedb_id>
         <series_title><![CDATA[So Ra No Wo To]]></series_title>
         <series_type>TV</series_type>
@@ -7190,6 +7278,28 @@
         <series_title><![CDATA[Sora yori mo Tooi Basho]]></series_title>
         <series_type>TV</series_type>
         <series_episodes>13</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>63816</series_animedb_id>
+        <series_title><![CDATA[Sousou no Frieren: Ougonkyou-hen]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
@@ -7696,6 +7806,28 @@
         <series_title><![CDATA[Yuru Yuri]]></series_title>
         <series_type>TV</series_type>
         <series_episodes>12</series_episodes>
+        <my_id>0</my_id>
+        <my_watched_episodes>0</my_watched_episodes>
+        <my_start_date>0000-00-00</my_start_date>
+        <my_finish_date>0000-00-00</my_finish_date>
+        <my_rated></my_rated>
+        <my_score>0</my_score>
+        <my_dvd></my_dvd>
+        <my_storage></my_storage>
+        <my_status>Plan to Watch</my_status>
+        <my_comments><![CDATA[]]></my_comments>
+        <my_times_watched>0</my_times_watched>
+        <my_rewatch_value>Low</my_rewatch_value>
+        <my_tags><![CDATA[]]></my_tags>
+        <my_rewatching>0</my_rewatching>
+        <my_rewatching_ep>0</my_rewatching_ep>
+        <update_on_import>1</update_on_import>
+    </anime>
+    <anime>
+        <series_animedb_id>63794</series_animedb_id>
+        <series_title><![CDATA[[Oshi no Ko] 4th Season]]></series_title>
+        <series_type>TV</series_type>
+        <series_episodes>0</series_episodes>
         <my_id>0</my_id>
         <my_watched_episodes>0</my_watched_episodes>
         <my_start_date>0000-00-00</my_start_date>
